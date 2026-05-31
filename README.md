@@ -1,2 +1,16 @@
-# calculator-
-A simple Calculator built using python 
+# Python Calculator
+
+A simple calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies Used
+- Python
+
+## How to Run
+
+python calculator.py
